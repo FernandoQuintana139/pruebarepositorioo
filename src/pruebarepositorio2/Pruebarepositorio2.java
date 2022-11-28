@@ -20,6 +20,8 @@ public class Pruebarepositorio2 {
         System.out.println("adios");
         System.out.println("adios");
         System.out.println("Carmen");
+        //Soy Carlos
+        System.out.println("Carlos");
     }
     
 }

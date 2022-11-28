@@ -18,6 +18,8 @@ public class Pruebarepositorio2 {
         // TODO code application logic here
         System.out.println("hola mundo");
         System.out.println("adios");
+        System.out.println("adios");
+        System.out.println("Carmen");
     }
     
 }

@@ -22,6 +22,8 @@ public class Pruebarepositorio2 {
         System.out.println("Carmen");
         //Soy Carlos
         System.out.println("Carlos");
+                //Omar
+        System.out.println("Omar Olivas");
     }
     
 }
